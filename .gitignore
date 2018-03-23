@@ -6,3 +6,8 @@ green_tripdata_2015-01.csv
 taxi+_zone_lookup.csv
 yellow_tripdata_2017-02.csv
 GPS_2016_11_01
+*.csv
+*.png
+*.py
+*.json
+*.pptx
